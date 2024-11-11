@@ -1,0 +1,6 @@
+Nome: Nadia Neves Bento
+NMEC: 124533
+
+1º: cd documents 
+2º: git clone https://github.com/nadiabento/LI2024-Teste03.git
+3º:
